@@ -1,6 +1,5 @@
 # SkillSync - Official BIT Student Peer Mentorship Ecosystem
 
-![SkillSync](https://via.placeholder.com/1200x600.png?text=SkillSync+-+BIT+Peer+Mentorship)
 
 ## 🌐 Deployment
 
