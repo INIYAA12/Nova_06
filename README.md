@@ -5,7 +5,19 @@
 
 **Live Link** : https://nova-06-gamma.vercel.app/
 ---
+## 🚀 Demo Login
 
+For quick evaluation, you can use the following demo accounts.
+
+### 👨‍🎓 Student
+- **Email:** `student@skillsync.com`
+- **Password:** `1234`
+
+### 👨‍🏫 Faculty
+- **Email:** `faculty@skillsync.com`
+- **Password:** `1234`
+
+> **Alternatively, you may register a new account and log in to explore the platform as a user.**
 
 **SkillSync** is a premium, glassmorphic React dashboard web application tailored for the Bannari Amman Institute of Technology (BIT). It functions as a robust peer-to-peer mentorship ecosystem. Students can find faculty-verified peer mentors, book learning sessions, teach their skills, and level up their student credentials.
 
