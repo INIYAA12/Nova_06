@@ -7,6 +7,7 @@
 **Live Link** : https://nova-06-gamma.vercel.app/
 ---
 
+
 **SkillSync** is a premium, glassmorphic React dashboard web application tailored for the Bannari Amman Institute of Technology (BIT). It functions as a robust peer-to-peer mentorship ecosystem. Students can find faculty-verified peer mentors, book learning sessions, teach their skills, and level up their student credentials.
 
 This project is a modern, responsive frontend single-page application built using Vite, CSS, React, and Lucide Icons.
@@ -97,7 +98,7 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
    ## 👥 Team
 
 See:
-team/TEAM_DETAILS.md
+TEAM_DETAILS.md
 
 ## 📝 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
