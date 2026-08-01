@@ -9,15 +9,15 @@
 
 For quick evaluation, you can use the following demo accounts.
 
-### 👨‍🎓 Student
-- **Email:** `student@skillsync.com`
-- **Password:** `1234`
+| Role | Email | Password |
+|------|-------|----------|
+| Student | `student@skillsync.com` | `1234` |
+| Faculty | `faculty@skillsync.com` | `1234` |
+| Student (Mentoring Demo) | `student25@skillsync.com` | `123456` |
 
-### 👨‍🏫 Faculty
-- **Email:** `faculty@skillsync.com`
-- **Password:** `1234`
+> **Note:** The **Student (Mentoring Demo)** account is a faculty-approved mentor account that can be used to create mentoring sessions and demonstrate the mentor workflow.
 
-> **Alternatively, you may register a new account and log in to explore the platform as a user.**
+> **Alternatively, you may register a new account and log in to explore the complete user registration and onboarding workflow.**
 
 **SkillSync** is a premium, glassmorphic React dashboard web application tailored for the Bannari Amman Institute of Technology (BIT). It functions as a robust peer-to-peer mentorship ecosystem. Students can find faculty-verified peer mentors, book learning sessions, teach their skills, and level up their student credentials.
 
